@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20220525-1025-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="maturk"
+	OSRelease="5.4.0-110-generic"
+	OSVersion="#124-Ubuntu SMP Thu Apr 14 19:46:19 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="60"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="8135"
+	TotalPhysicalMemory="15942"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3341.06"
+	>
+	<Testing>
+		<StartDateTime>May 25 12:25 CEST</StartDateTime>
+		<StartTestTime>1653474320</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 25 12:25 CEST</EndDateTime>
+		<EndTestTime>1653474320</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

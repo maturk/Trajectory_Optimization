@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboptLib.a  CMakeFiles/optLib.dir/GradientDescentMinimizer.cpp.o
+/usr/bin/ranlib liboptLib.a

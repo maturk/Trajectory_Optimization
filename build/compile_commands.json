@@ -1,0 +1,162 @@
+[
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/imgui.dir/__/_deps/imgui-src/imgui.cpp.o -c /home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/imgui.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/imgui.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/imgui.dir/__/_deps/imgui-src/imgui_demo.cpp.o -c /home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/imgui_demo.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/imgui_demo.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/imgui.dir/__/_deps/imgui-src/imgui_draw.cpp.o -c /home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/imgui_draw.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/imgui_draw.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/imgui.dir/__/_deps/imgui-src/imgui_tables.cpp.o -c /home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/imgui_tables.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/imgui_tables.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/imgui.dir/__/_deps/imgui-src/imgui_widgets.cpp.o -c /home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/imgui_widgets.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9   -O3 -DNDEBUG   -o CMakeFiles/nanovg.dir/__/_deps/nanovg-src/src/nanovg.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src/nanovg.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src/nanovg.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/glad",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9  -I/home/maturk/git/CMM/a6-maturk/ext/glad/include  -O3 -DNDEBUG   -o CMakeFiles/glad.dir/src/glad.c.o   -c /home/maturk/git/CMM/a6-maturk/ext/glad/src/glad.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/ext/glad/src/glad.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/context.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/context.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/context.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/init.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/init.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/init.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/input.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/input.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/input.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/monitor.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/monitor.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/monitor.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/vulkan.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/vulkan.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/vulkan.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/window.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/window.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/window.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -o CMakeFiles/glfw.dir/x11_init.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/x11_init.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/x11_init.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -o CMakeFiles/glfw.dir/x11_monitor.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/x11_monitor.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/x11_monitor.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -o CMakeFiles/glfw.dir/x11_window.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/x11_window.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/x11_window.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -o CMakeFiles/glfw.dir/xkb_unicode.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/xkb_unicode.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/xkb_unicode.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -o CMakeFiles/glfw.dir/posix_time.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/posix_time.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/posix_time.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -o CMakeFiles/glfw.dir/posix_thread.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/posix_thread.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/posix_thread.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -o CMakeFiles/glfw.dir/glx_context.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/glx_context.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/glx_context.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/egl_context.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/egl_context.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/egl_context.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/osmesa_context.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/osmesa_context.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/osmesa_context.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-9 -D_GLFW_USE_CONFIG_H -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src -I/home/maturk/git/CMM/a6-maturk/build/ext/ext/glfw/src  -O3 -DNDEBUG -fPIC   -Wall -std=gnu99 -o CMakeFiles/glfw.dir/linux_joystick.c.o   -c /home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/linux_joystick.c",
+  "file": "/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/src/linux_joystick.c"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/src/helpersLib",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I/home/maturk/git/CMM/a6-maturk/src/helpersLib -I/home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src -I/home/maturk/git/CMM/a6-maturk/build/_deps/eigen-src  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/helpersLib.dir/_.cpp.o -c /home/maturk/git/CMM/a6-maturk/src/helpersLib/_.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/src/helpersLib/_.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/src/optLib",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I/home/maturk/git/CMM/a6-maturk/src/optLib -I/home/maturk/git/CMM/a6-maturk/src/helpersLib -I/home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src -I/home/maturk/git/CMM/a6-maturk/build/_deps/eigen-src  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/optLib.dir/GradientDescentMinimizer.cpp.o -c /home/maturk/git/CMM/a6-maturk/src/optLib/GradientDescentMinimizer.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/src/optLib/GradientDescentMinimizer.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/src/guiLib",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DCMM_ASSETS_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/assets\\\" -DIMGUI_FONT_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/misc/fonts\\\" -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSHADER_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/../gui/shaders\\\" -I/home/maturk/git/CMM/a6-maturk/src/guiLib -I/home/maturk/git/CMM/a6-maturk/src/guiLib/../../ext/glfw/include -I/home/maturk/git/CMM/a6-maturk/ext/glad/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src -I/home/maturk/git/CMM/a6-maturk/ext/stb_image -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm/.. -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/guiLib.dir/application.cpp.o -c /home/maturk/git/CMM/a6-maturk/src/guiLib/application.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/src/guiLib/application.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/src/guiLib",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DCMM_ASSETS_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/assets\\\" -DIMGUI_FONT_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/misc/fonts\\\" -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSHADER_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/../gui/shaders\\\" -I/home/maturk/git/CMM/a6-maturk/src/guiLib -I/home/maturk/git/CMM/a6-maturk/src/guiLib/../../ext/glfw/include -I/home/maturk/git/CMM/a6-maturk/ext/glad/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src -I/home/maturk/git/CMM/a6-maturk/ext/stb_image -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm/.. -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/guiLib.dir/imgui_impl_glfw.cpp.o -c /home/maturk/git/CMM/a6-maturk/src/guiLib/imgui_impl_glfw.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/src/guiLib/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/src/guiLib",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DCMM_ASSETS_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/assets\\\" -DIMGUI_FONT_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/misc/fonts\\\" -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSHADER_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/../gui/shaders\\\" -I/home/maturk/git/CMM/a6-maturk/src/guiLib -I/home/maturk/git/CMM/a6-maturk/src/guiLib/../../ext/glfw/include -I/home/maturk/git/CMM/a6-maturk/ext/glad/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src -I/home/maturk/git/CMM/a6-maturk/ext/stb_image -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm/.. -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/guiLib.dir/imgui_impl_opengl3.cpp.o -c /home/maturk/git/CMM/a6-maturk/src/guiLib/imgui_impl_opengl3.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/src/guiLib/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/src/guiLib",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DCMM_ASSETS_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/assets\\\" -DIMGUI_FONT_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/misc/fonts\\\" -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSHADER_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/../gui/shaders\\\" -I/home/maturk/git/CMM/a6-maturk/src/guiLib -I/home/maturk/git/CMM/a6-maturk/src/guiLib/../../ext/glfw/include -I/home/maturk/git/CMM/a6-maturk/ext/glad/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src -I/home/maturk/git/CMM/a6-maturk/ext/stb_image -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm/.. -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/guiLib.dir/shader.cpp.o -c /home/maturk/git/CMM/a6-maturk/src/guiLib/shader.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/src/guiLib/shader.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/src/app",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DCMM_ASSETS_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/assets\\\" -DIMGUI_FONT_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/misc/fonts\\\" -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSHADER_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/../gui/shaders\\\" -I/home/maturk/git/CMM/a6-maturk/src/optLib -I/home/maturk/git/CMM/a6-maturk/src/helpersLib -I/home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src -I/home/maturk/git/CMM/a6-maturk/build/_deps/eigen-src -I/home/maturk/git/CMM/a6-maturk/src/guiLib -I/home/maturk/git/CMM/a6-maturk/src/guiLib/../../ext/glfw/include -I/home/maturk/git/CMM/a6-maturk/ext/glad/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src -I/home/maturk/git/CMM/a6-maturk/ext/stb_image -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm/.. -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/challenge-app.dir/challenge-app.cpp.o -c /home/maturk/git/CMM/a6-maturk/src/app/challenge-app.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/src/app/challenge-app.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/src/app",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DCMM_ASSETS_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/assets\\\" -DIMGUI_FONT_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/misc/fonts\\\" -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSHADER_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/../gui/shaders\\\" -I/home/maturk/git/CMM/a6-maturk/src/optLib -I/home/maturk/git/CMM/a6-maturk/src/helpersLib -I/home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src -I/home/maturk/git/CMM/a6-maturk/build/_deps/eigen-src -I/home/maturk/git/CMM/a6-maturk/src/guiLib -I/home/maturk/git/CMM/a6-maturk/src/guiLib/../../ext/glfw/include -I/home/maturk/git/CMM/a6-maturk/ext/glad/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src -I/home/maturk/git/CMM/a6-maturk/ext/stb_image -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm/.. -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/transcription-app.dir/transcription-app.cpp.o -c /home/maturk/git/CMM/a6-maturk/src/app/transcription-app.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/src/app/transcription-app.cpp"
+},
+{
+  "directory": "/home/maturk/git/CMM/a6-maturk/build/src/app",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DCMM_ASSETS_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/assets\\\" -DIMGUI_FONT_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src/misc/fonts\\\" -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSHADER_FOLDER=\\\"/home/maturk/git/CMM/a6-maturk/src/guiLib/../gui/shaders\\\" -I/home/maturk/git/CMM/a6-maturk/src/optLib -I/home/maturk/git/CMM/a6-maturk/src/helpersLib -I/home/maturk/git/CMM/a6-maturk/build/_deps/nanovg-src/src -I/home/maturk/git/CMM/a6-maturk/build/_deps/eigen-src -I/home/maturk/git/CMM/a6-maturk/src/guiLib -I/home/maturk/git/CMM/a6-maturk/src/guiLib/../../ext/glfw/include -I/home/maturk/git/CMM/a6-maturk/ext/glad/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/glfw-src/include -I/home/maturk/git/CMM/a6-maturk/build/_deps/imgui-src -I/home/maturk/git/CMM/a6-maturk/ext/stb_image -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm/.. -I/home/maturk/git/CMM/a6-maturk/build/_deps/glm-src/glm  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/shooting-app.dir/shooting-app.cpp.o -c /home/maturk/git/CMM/a6-maturk/src/app/shooting-app.cpp",
+  "file": "/home/maturk/git/CMM/a6-maturk/src/app/shooting-app.cpp"
+}
+]
