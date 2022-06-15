@@ -2,11 +2,13 @@ This repository contains my solution to the final exercise for Computational Mod
 
 
 # Trajectory Optimization
-![Demo 1] [https://github.com/maturk/Trajectory_Optimization/blob/master/shooting_app.gif]
+![Demo 1: Direct shooting optimization] [https://github.com/maturk/Trajectory_Optimization/blob/master/shooting_app.gif]
+![shooting_app](https://user-images.githubusercontent.com/30566358/173815027-85873471-07b8-4b36-9d4d-46055405f9b8.gif)
 
 In this demo, direct shooting method is used to optimize the trajectory of a spacecraft from the starting location to the end location. A planet with gravitational force is also added. 
 
-![Demo 2] [https://github.com/maturk/Trajectory_Optimization/blob/master/orbit.gif]
+![Demo 2: Spacecraft in orbit:] [https://github.com/maturk/Trajectory_Optimization/blob/master/orbit.gif]
+![orbit](https://user-images.githubusercontent.com/30566358/173815106-9570f13c-5ead-4ed5-ba02-c77956266db7.gif)
 
 In this demo, a spacecraft is put into orbit around a planet. 
 
