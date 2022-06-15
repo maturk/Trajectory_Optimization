@@ -2,7 +2,7 @@ This repository contains my solution to the final exercise for Computational Mod
 
 
 # Trajectory Optimization
-![Demo 1] [https://github.com/maturk/Trajectory_Optimization/shooting_app.gif]
+![Demo 1] [https://github.com/maturk/Trajectory_Optimization/blob/master/shooting_app.gif]
 
 In this example, gradient descent fails due to larger weights for certain objectives compared to other ones. As illustrated in the toy example, there is a very large weight variable 'x' which will result in large steps in this direction during optimization. To alleviate this problem, we would require very small step sizes; however, this is not optimal for fast convergence. In my code, I had to implement larger weights on the inital position/velocity constraints and for the dynamics constraints compared to the position/velocity and regularizer terms. This results in a very poor optimization landscape where small changes in one direction can result in large fluctuations in the objective function. 
 
