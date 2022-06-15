@@ -4,13 +4,13 @@ This repository contains my solution to the final exercise for Computational Mod
 # Trajectory Optimization
 ![Demo 1] [https://github.com/maturk/Trajectory_Optimization/blob/master/shooting_app.gif]
 
-In this example, gradient descent fails due to larger weights for certain objectives compared to other ones. As illustrated in the toy example, there is a very large weight variable 'x' which will result in large steps in this direction during optimization. To alleviate this problem, we would require very small step sizes; however, this is not optimal for fast convergence. In my code, I had to implement larger weights on the inital position/velocity constraints and for the dynamics constraints compared to the position/velocity and regularizer terms. This results in a very poor optimization landscape where small changes in one direction can result in large fluctuations in the objective function. 
+In this demo, direct shooting method is used to optimize the trajectory of a spacecraft from the starting location to the end location. A planet with gravitational force is also added. 
 
-Explanation of your approach to Question 10 (required for full credit):
+![Demo 2] [https://github.com/maturk/Trajectory_Optimization/blob/master/orbit.gif]
 
-![Solution to 10] [https://github.com/CMM-22/a6-maturk/blob/main/Solution10.png]
+In this demo, a spacecraft is put into orbit around a planet. 
 
-I implemented the following tricks to achieve good performance on the circular objective. 
+I implemented the following tricks to achieve good performance on the circular orbit objective. 
 
 1. I set an objective on the distance of the spaceship from the sun to be equal to the target orbit radius. 
 2. I set an objective on the velocity of the spaceship to be exactly tangential to the circular orbit (so that a perfect circular instead of e.g. elliptical orbit is achieved).
